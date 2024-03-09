@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    background-image: url('FrierenGroup.jpg');
 }
 #section {
     color: #fdec00;
@@ -9,8 +10,16 @@ body{
     color: darkgreen;
     text-align: center;
 }
+.border1{
+    background-color: #16b9e2;
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+}
 .text{
     color: white;
+    font-size:x-large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .img_s{
     text-align: center;
